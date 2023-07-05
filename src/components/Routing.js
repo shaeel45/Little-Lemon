@@ -9,7 +9,7 @@ import Confirmation from './pages/Confirmation';
 export default function Routing() {
     return (
         <Routes>
-            <Route path="/" element= {
+            <Route path="/homepage" element= {
             <Homepage />
             } />
 
